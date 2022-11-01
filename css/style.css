@@ -86,8 +86,16 @@
   color: #007bff;
   border-radius: 4px;
   padding: 5px;
+  text-decoration: none;
 }
 
-#back-link:hover {
-  text-decoration: none;
+/* create */
+#create-form,
+#edit-form {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.form-group {
+  margin-bottom: 20px;
 }
