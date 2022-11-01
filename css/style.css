@@ -99,3 +99,10 @@
 .form-group {
   margin-bottom: 20px;
 }
+
+/* mobile */
+@media (max-width: 480px) {
+  #home-link {
+    display: none;
+  }
+}
