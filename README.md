@@ -4,7 +4,7 @@
 
 Criar um CRUD utilizando a linguagem PHP e Banco de Dados relacional.
 
-## Descrição do projeto:
+## :receipt: Descrição do projeto:
 
 O projeto é um sistema de agenda, que pode por exemplo ser utilizado para registrar fornecedores.
 
